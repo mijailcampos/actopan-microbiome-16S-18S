@@ -1,0 +1,5 @@
+"Comparacion","Generos_Compartidos","Jaccard"
+"CV vs HE",118,0.321
+"CV vs WA",195,0.424
+"HE vs WA",93,0.225
+"Compartidos (3 grupos)",85,NA

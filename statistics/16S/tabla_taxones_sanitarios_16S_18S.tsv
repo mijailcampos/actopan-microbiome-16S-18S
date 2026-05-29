@@ -1,0 +1,26 @@
+Taxón	Grupo	Presente en	Relevancia sanitaria	Diferencia significativa
+Vibrio	Bacteria 16S	Agua, Ostión, Heces	Gastroenteritis, septicemia, cólera	Sí (CV vs HE; CV vs WA)
+Aeromonas	Bacteria 16S	Agua, Ostión, Heces	Infecciones gastrointestinales y de heridas	Sí (CV vs HE)
+Escherichia Shigella	Bacteria 16S	Agua, Ostión, Heces	Indicador fecal y patógeno potencial	Sí (CV vs HE; WA vs HE)
+Campylobacter	Bacteria 16S	Heces	Gastroenteritis bacteriana	No
+Arcobacter	Bacteria 16S	Agua, Ostión, Heces	Patógeno emergente de agua (gastroenteritis)	Sí (CV vs HE; CV vs WA)
+Legionella	Bacteria 16S	Agua, Ostión, Heces	Legionelosis	No
+Pseudomonas	Bacteria 16S	Agua, Ostión, Heces	Infecciones oportunistas	Sí (CV vs HE)
+Enterococcus	Bacteria 16S	Ostión, Heces	Indicador fecal, ITU e infecciones nosocomiales	Sí (CV vs HE; WA vs HE)
+Staphylococcus	Bacteria 16S	Agua, Ostión, Heces	Intoxicación alimentaria e infecciones de piel	Sí (CV vs HE; CV vs WA)
+Streptococcus	Bacteria 16S	Agua, Ostión, Heces	Faringitis, neumonía, infecciones sistémicas	Sí (CV vs HE; WA vs HE)
+Clostridium	Bacteria 16S	Agua, Ostión, Heces	Gangrena gaseosa, botulismo	Sí (CV vs HE)
+Fusobacterium	Bacteria 16S	Agua, Ostión, Heces	Infecciones periodontales y sistémicas	Sí (CV vs HE; CV vs WA)
+Bacteroides	Bacteria 16S	Agua, Ostión, Heces	Indicador fecal; peritonitis si fuera del intestino	No
+Proteus	Bacteria 16S	Ostión, Heces	Infecciones urinarias y de heridas	Sí (CV vs HE)
+Mycobacterium	Bacteria 16S	Agua, Ostión	Tuberculosis y micobacterias no tuberculosas	Sí (WA vs HE)
+Treponema	Bacteria 16S	Agua, Ostión, Heces	Sífilis, periodontitis	Sí (WA vs HE)
+Edwardsiella	Bacteria 16S	Agua, Ostión, Heces	Infecciones gastrointestinales (zoonosis)	No
+Photobacterium	Bacteria 16S	Ostión, Heces	Intoxicación alimentaria marina	Sí (CV vs WA)
+Morganella	Bacteria 16S	Ostión, Heces	ITU e infecciones oportunistas	Sí (CV vs HE)
+Neisseria	Bacteria 16S	Agua, Ostión	Gonorrea, meningitis	No
+Entamoeba	Protozoario 18S	Heces	Amibiasis intestinal e hígado	No
+Cryptosporidium	Protozoario 18S	Ostión	Criptosporidiosis (diarrea acuosa severa)	Sí (CV vs HE; CV vs WA)
+Isospora	Protozoario 18S	Agua	Isosporiasis intestinal	No
+Hartmannella	Protozoario 18S	Agua	Ameba de vida libre, hospedero de Legionella; oportunista	Sí (WA vs HE)
+Colpodella	Protozoario 18S	Agua, Ostión	Apicomplexan emergente, infecciones en inmunosuprimidos	Sí (CV vs HE)

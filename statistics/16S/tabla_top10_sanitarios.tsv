@@ -1,0 +1,11 @@
+Rango	Taxón	Grupo	Presente en	Ab. rel. Agua (%)	Ab. rel. Ostión (%)	Ab. rel. Heces (%)	Relevancia sanitaria	Diferencia significativa
+1	Edwardsiella	Bacteria 16S	Agua, Ostión, Heces	0.349	5.443	0.175	Infecciones gastrointestinales (zoonosis)	No
+2	Bacteroides	Bacteria 16S	Agua, Ostión, Heces	0.169	1.452	5.779	Indicador fecal; peritonitis si fuera del intestino	No
+3	Escherichia/Shigella	Bacteria 16S	Agua, Ostión, Heces	0.045	1.354	0.200	Indicador fecal y patógeno potencial	Sí (CV vs HE; WA vs HE)
+4	Arcobacter	Bacteria 16S	Agua, Ostión, Heces	0.101	1.117	0.025	Patógeno emergente de agua (gastroenteritis)	Sí (CV vs HE; CV vs WA)
+5	Aeromonas	Bacteria 16S	Agua, Ostión, Heces	0.349	0.809	0.062	Infecciones gastrointestinales y de heridas	Sí (CV vs HE)
+1	Cryptosporidium	Protozoario 18S	Ostión	0.000	31.250	0.000	Criptosporidiosis (diarrea acuosa severa)	Sí (CV vs HE; CV vs WA)
+2	Colpodella	Protozoario 18S	Agua, Ostión	0.274	18.750	0.000	Apicomplexan emergente, infecciones en inmunosuprimidos	Sí (CV vs HE)
+3	Hartmannella	Protozoario 18S	Agua	0.548	0.000	0.000	Ameba de vida libre, hospedero de Legionella; oportunista	Sí (WA vs HE)
+4	Entamoeba	Protozoario 18S	Heces	0.000	0.000	3.896	Amibiasis intestinal e hígado	No
+5	Isospora	Protozoario 18S	Agua	0.274	0.000	0.000	Isosporiasis intestinal	No

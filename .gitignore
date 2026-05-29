@@ -1,0 +1,45 @@
+# Raw sequencing data (too large for GitHub)
+00_raw_data/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Mothur working files (intermediate, very large)
+01_mothur_work/
+*.logfile
+*.rabund
+*.sabund
+*.flow
+*.trim.contigs.*
+*.scrap.*
+*.unique.*
+*.map
+*.names
+*.count_table
+*.dist
+*.cluster
+
+# Reference databases
+02_reference_db/
+
+# Publication-quality high-resolution figures (keep locally, use PNG in repo)
+*.tiff
+*.tif
+*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
