@@ -43,3 +43,11 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# QIIME 2 / DADA2 workflow: data and outputs are not distributed
+qiime2_dada2/figures/data/
+qiime2_dada2/figures/out/
+qiime2_dada2/figures/font/
+qiime2_dada2/figures/sites.tsv
+*.qza
+*.qzv

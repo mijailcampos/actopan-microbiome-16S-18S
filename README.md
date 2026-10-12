@@ -2,6 +2,8 @@
 
 Characterization of prokaryotic (16S rRNA) and eukaryotic (18S rRNA) microbial communities in *Crassostrea virginica* (Eastern oyster), river water, and human fecal samples collected at Chachalacas, Veracruz, Mexico.
 
+> **Manuscript analyses:** the results reported in the manuscript were produced with the QIIME 2 / DADA2 (ASV) workflow in [`qiime2_dada2/`](qiime2_dada2/). The mothur / OptiClust workflow described below is the earlier version of the analysis and is kept for reference.
+
 ## Study Overview
 
 | Feature | 16S rRNA | 18S rRNA |
