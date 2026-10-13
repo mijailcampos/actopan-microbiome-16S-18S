@@ -15,7 +15,7 @@ Characterization of prokaryotic (16S rRNA) and eukaryotic (18S rRNA) microbial c
 
 ## Raw Sequencing Data
 
-Raw FASTQ files are deposited at NCBI under:
+Raw FASTQ files will be deposited at NCBI under:
 
 **BioProject: [PRJNA1471323](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1471323)**
 
